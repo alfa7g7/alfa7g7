@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfa7g7
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, SQL, nonSQL, IA, MLL, DATA
+- 🌱 I'm currently studying two master's degrees: Data science | Artificial intelligence
 - 💞️ I’m looking to collaborate on anything I can 
 - 📫 How to reach me fabian.salazarfigueroa77@gmail.com, +573156273671
 
