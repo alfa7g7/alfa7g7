@@ -1,8 +1,17 @@
-<!-- Perfil destacado de alfa7g7 -->
+<!-- alfa7g7's Featured Profile -->
 
-<h1 align="center">¡Hola! Soy Fabián Salazar Figueroa 👋</h1>
 <p align="center">
-  <b>Ingeniero Electrónico | MSc. Ciencia de Datos | MSc. Inteligencia Artificial (en curso)</b>
+  <a href="https://github.com/alfa7g7">
+    <!-- SUGERENCIA DE IMAGEN: Puedes usar un servicio como capsule-render para un banner dinámico -->
+    <!-- Ejemplo: Ajusta el texto, color, tipo, etc. a tu gusto -->
+    <!-- Documentación de capsule-render: https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Data%20Science%20%26%20AI%20Explorer&height=200&fontSize=50&fontAlignY=45&animation=fadeIn" alt="Data Science & AI Banner"/>
+  </a>
+</p>
+
+<h1 align="center">Hi there! I'm Fabián Salazar Figueroa 👋</h1>
+<p align="center">
+  <b>Electronic Engineer | MSc. Data Science | MSc. Artificial Intelligence (in progress)</b>
 </p>
 <p align="center">
   <i>Rise and rise again until lambs become lions</i>
@@ -10,37 +19,54 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-Soy un ingeniero electrónico apasionado por la ciencia de datos y la inteligencia artificial. Actualmente, curso una segunda maestría en IA, profundizando en tecnologías emergentes para resolver problemas complejos y transformar datos en soluciones de valor.
+I'm an Electronic Engineer passionate about Data Science and Artificial Intelligence. Currently, I'm pursuing a second Master's degree in AI, diving deeper into emerging technologies to solve complex problems and transform data into valuable solutions.
 
-### 🛠️ Habilidades principales
+### 🛠️ Core Skills
 
-- **Lenguajes:** Python, SQL, C#, JavaScript
-- **Ciencia de datos:** Machine Learning, Deep Learning, Estadística, Visualización de datos
-- **Herramientas y frameworks:** Jupyter Notebook, Pandas, Scikit-learn, TensorFlow, FastAPI, Docker
-- **Otras áreas:** Procesamiento de imágenes, Analítica de datos, Automatización
+- **Languages:** Python, SQL, C#, JavaScript
+- **Data Science:** Machine Learning, Deep Learning, Statistics, Data Visualization
+- **Tools & Frameworks:** Jupyter Notebook, Pandas, Scikit-learn, TensorFlow, FastAPI, Docker
+- **Other Areas:** Image Processing, Data Analytics, Automation
 
-### 🌟 Proyectos destacados
+### 🌟 Featured Projects
 
-- [Proyecto de localización e identificación de objetos](https://github.com/alfa7g7/Proyecto-localizacion-identificacion-objetos)  
-  Identificación de objetos y bounding boxes usando aprendizaje automático.
+- [Object Localization and Identification Project](https://github.com/alfa7g7/Proyecto-localizacion-identificacion-objetos)  
+  Object identification and bounding boxes using machine learning.
 
 - [Titanic Predictor API](https://github.com/alfa7g7/Titanic-predictor-API)  
-  API de predicción de supervivencia en el Titanic con FastAPI y Docker. Modelo ML, documentación Swagger UI y listo para despliegue.
+  Titanic survival prediction API with FastAPI and Docker. ML model, Swagger UI documentation, and ready for deployment.
 
-- [Fundamentos Analítica I](https://github.com/alfa7g7/Fundamentos-Analitica-I)  
-  Proyecto de análisis de datos médicos enfocado en el síndrome de ovario poliquístico.
+- [Analytics Fundamentals I](https://github.com/alfa7g7/Fundamentos-Analitica-I)  
+  Medical data analysis project focused on Polycystic Ovary Syndrome (PCOS).
 
-> **Nota:** Tienes más proyectos interesantes. Puedes verlos todos en [github.com/alfa7g7?tab=repositories](https://github.com/alfa7g7?tab=repositories)
-
----
-
-### 📫 Conecta conmigo
-
-- [LinkedIn](https://www.linkedin.com/in/fabian-salazar-figueroa-26256316/)
-- [Kaggle](https://www.kaggle.com/alfa7g7)
+> **Note:** Explore more of my projects. You can see them all at [github.com/alfa7g7?tab=repositories](https://github.com/alfa7g7?tab=repositories)
 
 ---
 
-<p align="center">¡Gracias por visitar mi perfil! 🚀</p>
+### 🌱 I'm currently learning
+
+- Advanced Deep Learning Architectures (e.g., Transformers, GANs)
+- MLOps practices for robust model deployment and monitoring
+- Reinforcement Learning applications
+
+---
+
+### 📫 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian%20Salazar%20Figueroa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabian-salazar-figueroa-26256316/)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-alfa7g7-blue?style=flat&logo=kaggle)](https://www.kaggle.com/alfa7g7)
+- [![GitHub](https://img.shields.io/badge/GitHub-alfa7g7-lightgrey?style=flat&logo=github)](https://github.com/alfa7g7)
+
+---
+
+<!-- Opcional: Estadísticas de GitHub -->
+<!-- <p align="center">
+  <a href="https://github.com/alfa7g7">
+    <img src="https://github-readme-stats.vercel.app/api?username=alfa7g7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fabián's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa7g7&layout=compact&theme=radical&hide_border=true" alt="Fabián's Top Languages" />
+  </a>
+</p> -->
+
+<p align="center">Thanks for visiting my profile! 🚀</p>
