@@ -5,7 +5,7 @@
     <!-- SUGERENCIA DE IMAGEN: Puedes usar un servicio como capsule-render para un banner dinámico -->
     <!-- Ejemplo: Ajusta el texto, color, tipo, etc. a tu gusto -->
     <!-- Documentación de capsule-render: https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Data%20Science%20and%20AI" alt="Data Science & AI Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Data%20Science%20and%20AI" alt="Data Science & AI Banner"/>
   </a>
 </p>
 
@@ -19,8 +19,11 @@
 
 ---
 
-### 🚀 About Me
-
+### 🚀 About Me 
+<!-- ### <table><tr><td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQxbm9jZDBqdjdvaHN4ZW00NWFudHBudzBndXRqbzdnc3pyY3h0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/utz68KlKM5LGBVF6HZ/giphy.gif" width="25"></td><td> About Me</td></tr></table>-->
+<p align="center">
+  <img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif?cid=ecf05e47d6s172d41u65a36v3pfr2w7txeaip6m9n7evqp0o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" alt="AI/Data Animation">
+</p>
 I'm an Electronic Engineer passionate about Data Science and Artificial Intelligence. Currently, I'm pursuing a second Master's degree in AI, diving deeper into emerging technologies to solve complex problems and transform data into valuable solutions.
 
 ### 🛠️ Core Skills
@@ -45,7 +48,7 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 
 ---
 
-### 🌱 I'm currently learning
+### 🌱 I'm currently learning 
 
 - Advanced Deep Learning Architectures (e.g., Transformers, GANs)
 - MLOps practices for robust model deployment and monitoring
@@ -62,11 +65,11 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 ---
 
 <!-- Opcional: Estadísticas de GitHub -->
-<!-- <p align="center">
+<!--<p align="center">
   <a href="https://github.com/alfa7g7">
     <img src="https://github-readme-stats.vercel.app/api?username=alfa7g7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fabián's GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfa7g7&layout=compact&theme=radical&hide_border=true" alt="Fabián's Top Languages" />
   </a>
-</p> -->
+</p> --> 
 
 <p align="center">Thanks for visiting my profile! 🚀</p>
