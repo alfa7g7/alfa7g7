@@ -5,7 +5,7 @@
     <!-- SUGERENCIA DE IMAGEN: Puedes usar un servicio como capsule-render para un banner dinámico -->
     <!-- Ejemplo: Ajusta el texto, color, tipo, etc. a tu gusto -->
     <!-- Documentación de capsule-render: https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Data%20Science%20%26%20AI%20Explorer&height=200&fontSize=50&fontAlignY=45&animation=fadeIn" alt="Data Science & AI Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Data%20Science%20and%20AI" alt="Data Science & AI Banner"/>
   </a>
 </p>
 
