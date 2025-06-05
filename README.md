@@ -28,10 +28,10 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 
 ### 🛠️ Core Skills
 
-- **Languages:** Python, SQL, C#, JavaScript
+- **Languages:** Python, SQL, C, C++, C#, JavaScript
 - **Data Science:** Machine Learning, Deep Learning, Statistics, Data Visualization
-- **Tools & Frameworks:** Jupyter Notebook, Pandas, Scikit-learn, TensorFlow, FastAPI, Docker
-- **Other Areas:** Image Processing, Data Analytics, Automation
+- **Tools & Frameworks:** Jupyter Notebook, Pandas, Numpy, Dask, Scikit-learn, TensorFlow, Pytroch, FastAPI, Docker
+- **Other Areas:** Image Processing, Data Analytics, Automation, ETL
 
 ### 🌟 Featured Projects
 
