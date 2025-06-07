@@ -44,6 +44,10 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 - [Analytics Fundamentals I](https://github.com/alfa7g7/Fundamentos-Analitica-I)  
   Medical data analysis project focused on Polycystic Ovary Syndrome (PCOS).
 
+- [Predicting-Patient-Charges](https://github.com/alfa7g7/predicting-patient-charges)
+  End-to-end MLOps project implementing machine learning pipeline to predict patient insurance charges. Built with PyCaret for automated ML, Flask web app, Docker containerization, Azure cloud deployment, and GitHub Actions CI/CD.
+  Includes comprehensive testing, documentation, and live production environment.
+  
 > **Note:** Explore more of my projects. You can see them all at [github.com/alfa7g7?tab=repositories](https://github.com/alfa7g7?tab=repositories)
 
 ---
