@@ -65,6 +65,9 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian%20Salazar%20Figueroa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabian-salazar-figueroa-26256316/)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-alfa7g7-blue?style=flat&logo=kaggle)](https://www.kaggle.com/alfa7g7)
 - [![GitHub](https://img.shields.io/badge/GitHub-alfa7g7-lightgrey?style=flat&logo=github)](https://github.com/alfa7g7)
+- [![Email](https://img.shields.io/badge/Email-fabian.salazarfigueroa77%40gmail.com-red?style=flat&logo=gmail)](mailto:fabian.salazarfigueroa77@gmail.com)
+- [![Phone](https://img.shields.io/badge/Phone-%2B57%20315%20627%203671-green?style=flat&logo=whatsapp)](tel:+573156273671)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-brightgreen?style=flat&logo=whatsapp)](https://wa.me/573156273671)
 
 ---
 
