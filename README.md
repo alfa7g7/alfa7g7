@@ -29,12 +29,7 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 ### 🏅 Badges / Certificaciones
 
 <p align="center">
-  <a href="https://www.credly.com/badges/1014d89a-c82d-46d4-a402-304036311460/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" alt="Badge 1"/>
-  </a>
-  <a href="https://www.credly.com/badges/a6380a12-f3fd-4f43-b778-ddbb6def1e22/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="100" alt="Badge 2"/>
-  </a>
+  <a href="https://www.credly.com/badges/1014d89a-c82d-46d4-a402-304036311460/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100" alt="Badge 1"/></a><a href="https://www.credly.com/badges/a6380a12-f3fd-4f43-b778-ddbb6def1e22/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="100" alt="Badge 2"/></a>
 </p>
 
 
