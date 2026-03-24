@@ -42,9 +42,9 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 
 ### 🌟 Featured Projects
 
-- [Object Localization and Identification Project](https://github.com/alfa7g7/Proyecto-localizacion-identificacion-objetos)  
-  Object identification and bounding boxes using machine learning.
-
+- [End-to-end RAG for transsactional data proccesing with Airflow orquestation](https://github.com/alfa7g7/cala-analytics-data-platform)  
+  End-to-end technical solution for transactional data processing, modeling in BigQuery, orchestration with Airflow and a RAG (Retrieval Augmented Generation) system.
+  
 - [Titanic Predictor API](https://github.com/alfa7g7/Titanic-predictor-API)  
   Titanic survival prediction API with FastAPI and Docker. ML model, Swagger UI documentation, and ready for deployment.
 
