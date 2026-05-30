@@ -43,20 +43,15 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 ### 🌟 Featured Projects
 
   
-- [Sistema de Análisis mediante RAG y Agentes | Identificación inteligente de oportunidades en Secop II](https://github.com/alfa7g7/SARA)
-  Master's project implementing an intelligent agentic and RAG (Retrieval-Augmented Generation) architecture to process public procurement documents. Designed for the automated analysis and identification of bidding opportunities within the SECOP II platform.
+- [Sistema de Análisis mediante RAG y Agentes | Identificación inteligente de oportunidades en Secop II](https://github.com/alfa7g7/SARA). Master's project implementing an intelligent agentic and RAG (Retrieval-Augmented Generation) architecture to process public procurement documents. Designed for the automated analysis and identification of bidding opportunities within the SECOP II platform.
 
-- [End-to-end RAG for transsactional data proccesing with Airflow orquestation](https://github.com/alfa7g7/cala-analytics-data-platform)  
-  End-to-end technical solution for transactional data processing, modeling in BigQuery, orchestration with Airflow and a RAG (Retrieval Augmented Generation) system.
+- [End-to-end RAG for transsactional data proccesing with Airflow orquestation](https://github.com/alfa7g7/cala-analytics-data-platform). End-to-end technical solution for transactional data processing, modeling in BigQuery, orchestration with Airflow and a RAG (Retrieval Augmented Generation) system.
   
-- [Titanic Predictor API](https://github.com/alfa7g7/Titanic-predictor-API)  
-  Titanic survival prediction API with FastAPI and Docker. ML model, Swagger UI documentation, and ready for deployment.
+- [Titanic Predictor API](https://github.com/alfa7g7/Titanic-predictor-API). Titanic survival prediction API with FastAPI and Docker. ML model, Swagger UI documentation, and ready for deployment.
 
-- [Analytics Fundamentals I](https://github.com/alfa7g7/Fundamentos-Analitica-I)  
-  Medical data analysis project focused on Polycystic Ovary Syndrome (PCOS).
+- [Analytics Fundamentals I](https://github.com/alfa7g7/Fundamentos-Analitica-I). Medical data analysis project focused on Polycystic Ovary Syndrome (PCOS).
 
-- [Predicting-Patient-Charges](https://github.com/alfa7g7/predicting-patient-charges)
-  End-to-end MLOps project implementing machine learning pipeline to predict patient insurance charges. Built with PyCaret for automated ML, Flask web app, Docker containerization, Azure cloud deployment, and GitHub Actions CI/CD.
+- [Predicting-Patient-Charges](https://github.com/alfa7g7/predicting-patient-charges). End-to-end MLOps project implementing machine learning pipeline to predict patient insurance charges. Built with PyCaret for automated ML, Flask web app, Docker containerization, Azure cloud deployment, and GitHub Actions CI/CD.
   Includes comprehensive testing, documentation, and live production environment.
   
   
