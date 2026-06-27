@@ -43,7 +43,7 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 ### 🌟 Featured Projects
 
   
-- [Sistema de Análisis mediante RAG y Agentes | Identificación inteligente de oportunidades en Secop II](https://github.com/alfa7g7/SARA). Master's project implementing an intelligent agentic and RAG (Retrieval-Augmented Generation) architecture to process public procurement documents. Designed for the automated analysis and identification of bidding opportunities within the SECOP II platform.
+- [SARA | Sistema de Análisis mediante RAG y Agentes | Identificación inteligente de oportunidades en Secop II](https://github.com/alfa7g7/SARA). Master's project implementing an intelligent agentic and RAG (Retrieval-Augmented Generation) architecture to process public procurement documents. Designed for the automated analysis and identification of bidding opportunities within the SECOP II platform.
 
 - [End-to-end RAG for transsactional data proccesing with Airflow orquestation](https://github.com/alfa7g7/cala-analytics-data-platform). End-to-end technical solution for transactional data processing, modeling in BigQuery, orchestration with Airflow and a RAG (Retrieval Augmented Generation) system.
   
