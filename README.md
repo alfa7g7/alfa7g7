@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi there! I'm Fabián Salazar Figueroa 👋</h1>
 <p align="center">
-  <b>Electronic Engineer | MSc. Data Science | MSc. Artificial Intelligence (in progress)</b>
+  <b>Electronic Engineer | MSc. Data Science | MSc. Artificial Intelligence</b>
 </p>
 <p align="center">
   <i>Rise and rise again until lambs become lions</i>
