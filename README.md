@@ -37,8 +37,10 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 
 - **Languages:** Python, SQL, C, C++, C#, JavaScript
 - **Data Science:** Machine Learning, Deep Learning, Statistics, Data Visualization
-- **Tools & Frameworks:** Jupyter Notebook, Pandas, Numpy, Dask, Scikit-learn, TensorFlow, Pytroch, FastAPI, Docker
-- **Other Areas:** Image Processing, Data Analytics, Automation, ETL
+- **Tools & Frameworks:** Jupyter Notebook, Pandas, NumPy, Dask, Scikit-learn, TensorFlow, PyTorch, FastAPI, Docker, Airflow, MLflow, UV
+- **Generative AI & LLMs:** Prompt Engineering, Retrieval-Augmented Generation (RAG), LLM Evaluation, LLM Application Development, AI Agents / Agentic Workflows
+- **MLOps & AI Engineering:** Model Deployment, Model Monitoring, CI/CD for ML, Feature Engineering, Data & Model Versioning
+- **Other Areas:** Image Processing, Computer Vision, Data Analytics, Automation, ETL
 
 ### 🌟 Featured Projects
 
@@ -64,6 +66,10 @@ I'm an Electronic Engineer passionate about Data Science and Artificial Intellig
 - Advanced Deep Learning Architectures (e.g., Transformers, GANs)
 - MLOps practices for robust model deployment and monitoring
 - Reinforcement Learning applications
+- Advanced LLM systems (retrieval optimization, hallucination mitigation, and evaluation frameworks)
+- LLMOps in production (guardrails, observability, and prompt/version management)
+- Efficient fine-tuning and inference optimization (LoRA/PEFT and serving performance)
+- Responsible AI and AI Governance for enterprise-grade solutions
 
 ---
 
